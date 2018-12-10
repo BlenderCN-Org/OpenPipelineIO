@@ -57,3 +57,6 @@ $ run
 ## Why MongoDB?
 - OpenTimelineIO used json format
 - direct mongoDB restAPI : 설계가 끝나도록 RestAPI를 안짬. 그냥 DB기본값을 사용.
+
+## DB백업
+- 백업하고 네트워크가 분리된 -> 클라우드로 올림(재해대비)
