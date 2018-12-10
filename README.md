@@ -4,7 +4,7 @@
 
 OpenPipelineIO 는 데이터 In/Out에 중점을 둔 프로젝트 매니징 파이프라인툴 입니다.
 
-줄여서 opio라고 부를 것
+이하 OPIO라고 줄여서 표기하겠습니다.
 
 명령군
 - opiols
