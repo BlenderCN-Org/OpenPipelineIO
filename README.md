@@ -42,9 +42,12 @@ $ run
 ```
 
 ## Spec
+- 계속 Core만 만질것.
+- 소규모 그룹으로 테스트 진행. User정보를 누구나 열람하고 민감한 정보 자체를 담지 않는다.
+- 사람보다는 데이터 관점에서 작성해보기.
 - Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic used blender)
 - In/Out Project Data Managing
-- for Animation, Game, VFX
+- for Animaation, Game, VFX
 - 준비물이 모이면 Ready가 된다.
 
 ## Interface
