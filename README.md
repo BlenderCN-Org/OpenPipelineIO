@@ -43,6 +43,7 @@ brew services start mongodb
 - Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic used blender)
 - In/Out Project Data Managing
 - for Animation, Game, VFX
+- 준비물이 모이면 Ready가 된다.
 
 ## Interface
 
