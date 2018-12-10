@@ -50,4 +50,4 @@ brew services start mongodb
 
 ## Why MongoDB?
 - OpenTimelineIO used json format
-- direct mongoDB restAPI
+- direct mongoDB restAPI : 설계가 끝나도록 RestAPI를 안짬. 그냥 DB기본값을 사용.
