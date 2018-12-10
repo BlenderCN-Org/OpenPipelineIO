@@ -47,7 +47,7 @@ $ run
 - 사람보다는 데이터 관점에서 작성해보기.
 - Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic used blender)
 - In/Out Project Data Managing
-- for Animaation, Game, VFX
+- for Animation, Game, VFX
 - 준비물이 모이면 Ready가 된다.
 - Unreal의 Actor(char, prop), Location, Logic 개념을 넣기.
 - 사용자는 app, bot이 될 수도 있다.
