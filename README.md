@@ -51,6 +51,7 @@ $ run
 - 준비물이 모이면 Ready가 된다.
 - Unreal의 Actor(char, prop), Location, Logic 개념을 넣기.
 - 사용자는 app, bot이 될 수도 있다.
+- 누구나 값을 수정할 수 있으며 로그가 확실히 남도록 한다.
 
 ## Interface
 
