@@ -28,5 +28,4 @@ OpenPipelineIO 는 데이터 In/Out에 중점을 둔 프로젝트 매니징 파�
 
 ## Why MongoDB?
 - OpenTimelineIO used json format
-- restAPI
-- for Web
+- direct mongoDB restAPI
