@@ -50,6 +50,7 @@ $ run
 - for Animaation, Game, VFX
 - 준비물이 모이면 Ready가 된다.
 - Unreal의 Actor(char, prop), Location, Logic 개념을 넣기.
+- 사용자는 app, bot이 될 수도 있다.
 
 ## Interface
 
