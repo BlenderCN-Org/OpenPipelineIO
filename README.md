@@ -32,11 +32,13 @@ yum install mongodb
 
 macOS
 ```
-pip install opentimelineio
-brew install openimageio
-brew install opencolorio
-brew install mongodb
-brew services start mongodb
+$ pip install opentimelineio
+$ brew install openimageio
+$ brew install opencolorio
+$ brew install mongodb
+$ brew services start mongodb
+$ wget openpiplineio
+$ run
 ```
 
 ## Spec
