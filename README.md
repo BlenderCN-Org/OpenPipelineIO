@@ -49,6 +49,7 @@ $ run
 - In/Out Project Data Managing
 - for Animaation, Game, VFX
 - 준비물이 모이면 Ready가 된다.
+- Unreal의 Actor(char, prop), Location, Logic 개념을 넣기.
 
 ## Interface
 
