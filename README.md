@@ -39,7 +39,7 @@ brew services start mongodb
 ```
 
 ## Spec
-- Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD
+- Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic used blender)
 - In/Out Project Data Managing
 - for Animation, Game, VFX
 
