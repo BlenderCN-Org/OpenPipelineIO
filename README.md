@@ -7,7 +7,7 @@ OpenPipelineIO 는 데이터 In/Out에 중점을 둔 프로젝트 매니징 파�
 
 이하 OPIO라고 줄여서 표기하겠습니다.
 
-홈페이지 : http://openpipeline.io(AWS 준비중)
+홈페이지 : http://openpipeline.io (AWS 준비중)
 
 ## Need
 
