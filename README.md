@@ -35,7 +35,7 @@ $ run
 - 계속 Core만 만질것.
 - 1차 소규모 그룹으로 테스트 진행
 - 사람보다는 데이터 흐름 관점에서 작성해보기.
-- Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic used blender)
+- Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic is using blender)
 - In/Out Project Data Managing
 - for Animation, Game, VFX
 - 데이터(준비물)이 모이면 Ready가 되는 구조.
