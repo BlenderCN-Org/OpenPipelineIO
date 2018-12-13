@@ -38,5 +38,5 @@ $ run
 - Use: OTIO, OCIO, OIIO, OpenEXR, OpenVDB, ABC, USD and Blender. (lazypic used blender)
 - In/Out Project Data Managing
 - for Animation, Game, VFX
-- 준비물이 모이면 Ready가 된다.
+- 데이터(준비물)이 모이면 Ready가 되는 구조.
 - Unreal의 Actor(char, prop), Location, Logic 개념을 넣기.
