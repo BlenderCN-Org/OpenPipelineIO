@@ -7,7 +7,7 @@ OpenPipelineIO is a project managing pipeline tool that focuses on data I/O
 - Create a project management tool using the opensource tools.
 - Use: OTIO, OCIO, OIIO, OpenEXR, FFmpeg, OpenVDB, ABC, USD and Blender. (lazypic is using blender)
 
-Hompage : http://openpipeline.io (AWS 준비중)
+Hompage : http://openpipeline.io (We're preparing a static website on AWS)
 
 ## Spec
 - In the early day, only the core coding will be produced.
