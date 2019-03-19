@@ -21,7 +21,7 @@ Hompage : http://openpipeline.io (We're preparing a static website on AWS)
 
 ## Need
 
-Linux
+#### Linux
 ```
 pip install opentimelineio
 yum install OpenImageIO
@@ -29,11 +29,12 @@ yum install OpenImageIO-utils
 yum install opencolorio
 ```
 
-macOS
+#### macOS
 ```
 $ pip install opentimelineio
 $ brew install openimageio
 $ brew install opencolorio
 ```
 
+#### Windows
 We don't think We going to support Windows yet.
