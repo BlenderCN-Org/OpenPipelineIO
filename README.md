@@ -35,3 +35,5 @@ $ pip install opentimelineio
 $ brew install openimageio
 $ brew install opencolorio
 ```
+
+We don't think We going to support Windows yet.
