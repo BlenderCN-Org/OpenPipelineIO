@@ -26,7 +26,6 @@ pip install opentimelineio
 yum install OpenImageIO
 yum install OpenImageIO-utils
 yum install opencolorio
-yum install mongodb
 ```
 
 macOS
@@ -34,8 +33,6 @@ macOS
 $ pip install opentimelineio
 $ brew install openimageio
 $ brew install opencolorio
-$ brew install mongodb
-$ brew services start mongodb
 $ wget openpiplineio
 $ run
 ```
