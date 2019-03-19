@@ -33,6 +33,4 @@ macOS
 $ pip install opentimelineio
 $ brew install openimageio
 $ brew install opencolorio
-$ wget openpiplineio
-$ run
 ```
