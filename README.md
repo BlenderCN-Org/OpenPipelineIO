@@ -17,7 +17,7 @@ Hompage : http://openpipeline.io (We're preparing a static website on AWS)
 - for Animation, Game, VFX
 - Previous data preparation must be gathered to activate each task.
 - Insert the concept of Unreal Engine : Actor(char, prop), Location, Logic
-- If we use database, we will use AWS.
+- If we use database, we will use AWS.(For on-demand service, a small amount of data is free and stable.)
 
 ## Need
 
