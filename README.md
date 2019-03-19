@@ -18,6 +18,7 @@ Hompage : http://openpipeline.io (We're preparing a static website on AWS)
 - Previous data preparation must be gathered to activate each task.
 - Insert the concept of Unreal Engine : Actor(char, prop), Location, Logic
 - If we use database, we will use AWS.(For on-demand service, a small amount of data is free and stable.)
+- The security section will use the AWS IAM policy + MFA
 
 ## Need
 
