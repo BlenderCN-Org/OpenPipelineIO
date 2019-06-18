@@ -2,6 +2,7 @@
 OpenPipelineIO is a project managing pipeline tool that focuses on data I/O
 
 - Collaborate with the [Roi](https://github.com/studio2l/roi) project on issues.
+- Collaborate with the [Csi3](https://github.com/digital-idea/csi3) project on issues.
 - OpenPipelineIO is a long-term project.
 - OpenPipelineIO is a project managing pipeline tool that focuses on data I/O
 - Create a project management tool using the opensource tools.
