@@ -3,7 +3,7 @@ OpenPipelineIO is pipeline tools download site.
 
 - OpenPipelineIO is a long-term project.
 - OpenPipelineIO is a project managing pipeline tool that focuses on data I/O
-- Use: OTIO, OCIO, OIIO, OpenEXR, FFmpeg, OpenVDB, ABC, USD and Blender. (lazypic is using blender)
+- Use: OTIO, OCIO, OIIO, OpenEXR, FFmpeg, OpenVDB, ABC, USD and Blender. (Lazypic use Blender)
 
 Homepage : https://openpipeline.io
 
